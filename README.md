@@ -8,7 +8,7 @@
 
 1. Клонирование репозитория 
 
-```git clone ```
+```git clone https://github.com/ekaterina3333/average_rating.git```
 
 2. Создание виртуального окружения
 
